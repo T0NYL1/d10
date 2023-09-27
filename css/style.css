@@ -142,7 +142,7 @@ background-position: center;
 background-repeat: no-repeat;
 background-size: cover;}
 /* image{width:100%} */
-.about,.method,.clients,.contact,.contact{grid-column: 2/2;}
+.about,.method,.clients,.contact,.contact{grid-column: 2/span 1;}
 .about{
 grid-row: 2;}
 .method{
